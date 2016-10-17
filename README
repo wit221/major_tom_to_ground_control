@@ -1,0 +1,9 @@
+What's up under the ISS?
+
+This app was built specifically for you, the many astronomers of the International Space Station.
+
+Click on the button and discover what's happening right beneath you right now.
+But... if clouds are not covering whatever's beneath you, that means you can see what is happening on Earth for yourself, so the app will not tell you what's happening!
+
+This simple app retrieves the current position of the International Space Station. It then checks the weather at that position on the ground. If the skies are cloudy, it retrieves the latest articles' titles from the New York Times related to the place the ISS is flying over, given it is not an ocean, and displays it, so that astronomers can "see" what is up right beneath them. It is their window to the Earth.
+
